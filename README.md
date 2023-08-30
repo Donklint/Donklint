@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Donklint
-- 👀 I’m interested in java language
+- 👀 I’m interested in python language
 - 💞️ I’m looking to collaborate on open source projects to learn more.
 - 📫 You can reach out on my twitter account @ClintWithK.
 
